@@ -4,12 +4,9 @@ summary: |
   Updates pull request status for Azure DevOps repositories
 description: |
   Update pull request status for Azure DevOps repositories
-website: https://github.com/ganeshbsub/bitrise-step-azure-devops-status
-source_code_url: https://github.com/ganeshbsub/bitrise-step-azure-devops-status
-support_url: https://github.com/ganeshbsub/bitrise-step-azure-devops-status/issues
-host_os_tags:
-  - osx-10.10
-  - ubuntu-16.04
+website: https://github.com/ganeshbsub/bitrise-step-azure-devops-pr-status
+source_code_url: https://github.com/ganeshbsub/bitrise-step-azure-devops-pr-status
+support_url: https://github.com/ganeshbsub/bitrise-step-azure-devops-pr-status/issues
 
 type_tags:
   - utility
